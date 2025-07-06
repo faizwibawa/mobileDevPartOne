@@ -50,7 +50,7 @@ Ensure you have the correct files in `res/drawable/` (`.svg` or `.xml`) and upda
 ## ✍️ Author
 
 **Faiz Wibawa**  
-[GitHub](https://github.com/faizwibawa) • Android Dev Bootcamp – Assignment 1 ✅
+[GitHub](https://github.com/faizwibawa) • Mobile Development Bootcamp – Assignment 1 ✅
 
 ---
 
