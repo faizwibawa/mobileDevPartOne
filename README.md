@@ -1,4 +1,4 @@
-# 📱 Assignment 2: To Do List App
+# 📱 Assignment 2: Coffee Bar App
 
 A simple **To Do List** Android app created for a Mobile Development Bootcamp assignment. The app demonstrates the use of **Fragments**, **Intents**, and **XML Layouts** through an interactive user interface with multiple screens.
 
@@ -14,8 +14,6 @@ A simple **To Do List** Android app created for a Mobile Development Bootcamp as
 ---
 
 ## 📸 Screenshots
-
-> *(Make sure you've uploaded the images in the `screenshots/` folder or use relative paths from the `README.md`)*
 
 ### Splash Screen
 ![Splash Screen](screenshots/splash.jpg)
