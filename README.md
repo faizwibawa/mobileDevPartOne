@@ -26,8 +26,3 @@ A simple **To Do List** Android app created for a Mobile Development Bootcamp as
 
 ---
 
-## 🚀 How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
