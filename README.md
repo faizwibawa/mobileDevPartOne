@@ -18,13 +18,13 @@ A simple **To Do List** Android app created for a Mobile Development Bootcamp as
 > *(Make sure you've uploaded the images in the `screenshots/` folder or use relative paths from the `README.md`)*
 
 ### Splash Screen
-![Splash Screen](screenshots/splash.png)
+![Splash Screen](screenshots/splash.jpg)
 
 ### Login Screen
-![Login Screen](screenshots/login.png)
+![Login Screen](screenshots/login.jpg)
 
 ### Home Page
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/home.jpg)
 
 ---
 
