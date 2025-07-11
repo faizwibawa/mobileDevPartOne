@@ -24,7 +24,7 @@ A simple **To Do List** Android app created for a Mobile Development Bootcamp as
 ![Login Screen](screenshots/login.jpg)
 
 ### Home Page
-![Home Page](screenshots/home.jpg)
+![Home Page](screenshots/homepage.jpg)
 
 ---
 
